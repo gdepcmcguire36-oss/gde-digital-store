@@ -1,0 +1,14 @@
+product_id,product_name,price_usd,type
+ransomware,Ransomware Emergency Survival Guide,12.99,one-time
+business-hacked,My Business Has Been Hacked,9.99,one-time
+email-hacked,Has My Email Been Hacked?,7.99,one-time
+data-breach,Business Data Breach Response Checklist,6.99,one-time
+m365,Microsoft 365 Account Recovery Guide,9.99,one-time
+phishing,Clicked a Phishing Link: Action Checklist,4.99,one-time
+invoice-fraud,Business Email Compromise & Invoice Fraud,7.99,one-time
+lost-laptop,Lost or Stolen Laptop Response Plan,4.99,one-time
+cyber-audit,Small Business Cybersecurity Audit Workbook,9.99,one-time
+employee-training,Employee Cybersecurity Training Kit,14.99,one-time
+backup-plan,Backup & Disaster Recovery Planner,9.99,one-time
+identity-theft,Family Identity Theft Recovery Guide,7.99,one-time
+bundle,Cyber Emergency Bundle,29.99,one-time

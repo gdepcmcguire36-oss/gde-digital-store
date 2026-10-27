@@ -1,0 +1,30 @@
+GDE DIGITAL STORE — REFINED STOREFRONT
+
+WHAT IS READY
+- Redesigned responsive dark-theme storefront with illustrated product cards and preview images.
+- Search and category filters for 13 cybersecurity product listings.
+- Working links to original preview HTML pages and preview images.
+- Six original family, wellness, pet, business and IT collections preserved.
+- Proposed prices and polished product descriptions.
+
+NOT YET LIVE
+- Stripe payments and automatic paid PDF delivery are NOT connected.
+- The Buy buttons stay disabled until valid payment links are configured.
+- Do not put private paid PDF files in this public folder.
+- A successful payment link alone does not deliver purchased PDFs. Set up a secure delivery provider/service and test end-to-end first.
+
+HOW TO VIEW
+- Double-click index.html on Windows. Previews will work locally if the folder remains intact.
+
+HOW TO DEPLOY
+- Upload this extracted folder to Netlify Drop (https://app.netlify.com/drop). This may create a NEW site address.
+- To keep your EXISTING Netlify address, use its Deploys > manual deploy option for that same site, if available. Make a backup first.
+- Do not overwrite your current live site until you verify the new preview.
+
+NEXT PHASE
+1. Connect Stripe in ChatGPT or supply actual product payment links (not secret API keys).
+2. Configure secure paid delivery (Stripe alone is not enough).
+3. Complete an end-to-end test purchase and PDF delivery.
+4. Enable purchase buttons, verify links and confirm the live domain.
+
+Product prices are proposals, not claims of active checkout.
